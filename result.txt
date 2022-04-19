@@ -1,0 +1,1108 @@
+{{Playlist|
+
+{{Producer_Song
+|nnd_id   = sm26983332
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2015年8月21日
+|条目     = IA「マインドボイス」【オリジナル曲】
+|标题     = {{lj|IA「マインドボイス」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/26983332/26983332.L
+}}
+
+{{Producer_Song
+|nnd_id   = sm26827501
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2015年7月31日
+|条目     = 初音ミク「ギミラブ、ギミキス」【オリジナル曲】
+|标题     = {{lj|初音ミク「ギミラブ、ギミキス」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/26827501/26827501.L
+}}
+
+{{Producer_Song
+|nnd_id   = sm26305822
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2015年5月21日
+|条目     = 初音ミク「Walk This Way!」【オリジナルMV】
+|标题     = {{lj|初音ミク「Walk This Way!」【オリジナルMV】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/26305822/26305822.L
+}}
+
+{{Producer_Song
+|nnd_id   = sm26049588
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2015年4月17日
+|条目     = 【消滅都市】I Miss You Baby【samfree Remix】
+|标题     = {{lj|【消滅都市】I Miss You Baby【samfree Remix】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/26049588/26049588.L
+}}
+
+{{Producer_Song
+|nnd_id   = sm25042219
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2014年12月3日
+|条目     = 【samfree×柿チョコ】 Drive into you 【COPEN 「XPLAYミュージック」 第2弾】
+|标题     = {{lj|【samfree×柿チョコ】 Drive into you 【COPEN 「XPLAYミュージック」 第2弾】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/25042219/25042219.L
+}}
+
+{{Producer_Song
+|nnd_id   = sm23859704
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2014年6月25日
+|条目     = 「daze」歌ってみましてん【samfree】
+|标题     = {{lj|「daze」歌ってみましてん【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/23859704/23859704.L
+}}
+
+{{Producer_Song
+|nnd_id   = sm22995303
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2014年3月1日
+|条目     = 結月ゆかり「ユカユカ☆ヘヴンリーナイト」【オリジナル曲】
+|标题     = {{lj|結月ゆかり「ユカユカ☆ヘヴンリーナイト」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/22995303/22995303
+}}
+
+{{Producer_Song
+|nnd_id   = sm21274199
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2013年7月4日
+|条目     = 「ゾラミク★エキセントリックフューチャーナイト」【オリジナルMV】
+|标题     = {{lj|「ゾラミク★エキセントリックフューチャーナイト」【オリジナルMV】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/21274199/21274199
+}}
+
+{{Producer_Song
+|nnd_id   = sm19177878
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2012年10月22日
+|条目     = 初音ミク「New Worlds God」【オリジナル曲】
+|标题     = {{lj|初音ミク「New Worlds God」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/19177878/19177878
+}}
+
+{{Producer_Song
+|nnd_id   = sm16829416
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2012年1月30日
+|条目     = IA「イアイア★ナイトオブデザイア」【オリジナル曲】
+|标题     = {{lj|IA「イアイア★ナイトオブデザイア」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/16829416/16829416
+}}
+
+{{Producer_Song
+|nnd_id   = sm15436087
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2011年8月27日
+|条目     = 【ボーマス17】「Fever」デモ【samfree】
+|标题     = {{lj|【ボーマス17】「Fever」デモ【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/15436087/15436087
+}}
+
+{{Producer_Song
+|nnd_id   = sm15089052
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2011年7月22日
+|条目     = 鏡音リン「侵略」【オリジナル曲】
+|标题     = {{lj|鏡音リン「侵略」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/15089052/15089052
+}}
+
+{{Producer_Song
+|nnd_id   = sm14376144
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2011年5月6日
+|条目     = 初音ミク「Euthanasia」【オリジナル曲】
+|标题     = {{lj|初音ミク「Euthanasia」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/14376144/14376144
+}}
+
+{{Producer_Song
+|nnd_id   = sm14276211
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2011年4月27日
+|条目     = 「組曲『ニコニコ動画』改」歌ってみた【samfree】
+|标题     = {{lj|「組曲『ニコニコ動画』改」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/14276211/14276211
+}}
+
+{{Producer_Song
+|nnd_id   = sm13732270
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2011年2月28日
+|条目     = 「キリトリセン」歌ってみた【samfree】
+|标题     = {{lj|「キリトリセン」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/13732270/13732270
+}}
+
+{{Producer_Song
+|nnd_id   = sm12973212
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年12月8日
+|条目     = 歌手音ピコ「ピコピコ☆レジェンドオブザナイト」【オリジナル曲】
+|标题     = {{lj|歌手音ピコ「ピコピコ☆レジェンドオブザナイト」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/12973212/12973212
+}}
+
+{{Producer_Song
+|nnd_id   = sm12920618
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年12月2日
+|条目     = 歌手音ピコ「トキ☆メキ桃色ハート」【公式デモ】
+|标题     = {{lj|歌手音ピコ「トキ☆メキ桃色ハート」【公式デモ】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/12920618/12920618
+}}
+
+{{Producer_Song
+|nnd_id   = sm12920547
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年12月2日
+|条目     = 歌手音ピコ「闇色アリス」【公式デモ】
+|标题     = {{lj|歌手音ピコ「闇色アリス」【公式デモ】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/12920547/12920547
+}}
+
+{{Producer_Song
+|nnd_id   = sm12517264
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年10月23日
+|条目     = 猫村いろは「ネコネコ☆スーパーフィーバーナイト」【オリジナル曲】
+|标题     = {{lj|猫村いろは「ネコネコ☆スーパーフィーバーナイト」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/12517264/12517264
+}}
+
+{{Producer_Song
+|nnd_id   = sm11944185
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年8月31日
+|条目     = 「リリリリ★バーニングナイト」歌ってみた【samfree】
+|标题     = {{lj|「リリリリ★バーニングナイト」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/11944185/11944185
+}}
+
+{{Producer_Song
+|nnd_id   = sm11884641
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年8月26日
+|条目     = Lily「リリリリ★バーニングナイト」【オリジナル曲】
+|标题     = {{lj|Lily「リリリリ★バーニングナイト」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/11884641/11884641
+}}
+
+{{Producer_Song
+|nnd_id   = sm11606052
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年8月2日
+|条目     = 「Crime」クロスフェード【C78】
+|标题     = {{lj|「Crime」クロスフェード【C78】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/11606052/11606052
+}}
+
+{{Producer_Song
+|nnd_id   = sm11605938
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年8月2日
+|条目     = 巡音ルカ・鏡音レン「Perfect Crime」【オリジナル曲】
+|标题     = {{lj|巡音ルカ・鏡音レン「Perfect Crime」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/11605938/11605938
+}}
+
+{{Producer_Song
+|nnd_id   = sm11141138
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年6月21日
+|条目     = 「AGAINST」歌ってみた【samfree】
+|标题     = {{lj|「AGAINST」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/11141138/11141138
+}}
+
+{{Producer_Song
+|nnd_id   = sm11032490
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年6月12日
+|条目     = 【ヤスオ×cosMo×samfree】「いみてーちょろ～ん☆ぶらっく」歌ってみた
+|标题     = {{lj|【ヤスオ×cosMo×samfree】「いみてーちょろ～ん☆ぶらっく」歌ってみた}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/11032490/11032490
+}}
+
+{{Producer_Song
+|nnd_id   = sm10234618
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年4月1日
+|条目     = 実谷ナナ「ナナナナ★フィーバーミラクルトゥナイト」【オリジナル曲】
+|标题     = {{lj|実谷ナナ「ナナナナ★フィーバーミラクルトゥナイト」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/10234618/10234618
+}}
+
+{{Producer_Song
+|nnd_id   = sm10114816
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年3月22日
+|条目     = 鏡音リン「Fate of Soul～ピリオドの向こうの闇～」【オリジナル曲】
+|标题     = {{lj|鏡音リン「Fate of Soul～ピリオドの向こうの闇～」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/10114816/10114816
+}}
+
+{{Producer_Song
+|nnd_id   = sm9498603
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年1月25日
+|条目     = 「アルビノ」歌ってみた【samfree】
+|标题     = {{lj|「アルビノ」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/9498603/9498603
+}}
+
+{{Producer_Song
+|nnd_id   = sm9440624
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2010年1月20日
+|条目     = 「Last Night, Good Night」歌ってみた【samfree】
+|标题     = {{lj|「Last Night, Good Night」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/9440624/9440624
+}}
+
+{{Producer_Song
+|nnd_id   = sm8995619
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年12月4日
+|条目     = miki「ミキミキ★ロマンティックナイト」【オリジナル曲】
+|标题     = {{lj|miki「ミキミキ★ロマンティックナイト」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/8995619/8995619
+}}
+
+{{Producer_Song
+|nnd_id   = sm8824425
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年11月16日
+|条目     = 巡音ルカ「Gravity=Reality」【オリジナル曲】
+|标题     = {{lj|巡音ルカ「Gravity=Reality」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/8824425/8824425
+}}
+
+{{Producer_Song
+|nnd_id   = sm8824405
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年11月16日
+|条目     = 鏡音リン「Bye-Bye」【オリジナル曲】
+|标题     = {{lj|鏡音リン「Bye-Bye」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/8824405/8824405
+}}
+
+{{Producer_Song
+|nnd_id   = sm8824375
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年11月16日
+|条目     = 初音ミク「Prism Heart」【オリジナル曲】
+|标题     = {{lj|初音ミク「Prism Heart」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/8824375/8824375
+}}
+
+{{Producer_Song
+|nnd_id   = sm8686393
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年11月2日
+|条目     = 【samfree】「magnet」歌ってみた【cosMo】
+|标题     = {{lj|【samfree】「magnet」歌ってみた【cosMo】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/8686393/8686393
+}}
+
+{{Producer_Song
+|nnd_id   = sm8340021
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年9月26日
+|条目     = 「Just Be Friends」歌ってみた【samfree】
+|标题     = {{lj|「Just Be Friends」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/8340021/8340021
+}}
+
+{{Producer_Song
+|nnd_id   = sm7935684
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年8月14日
+|条目     = 初音ミク「Rainbow」【オリジナル曲】
+|标题     = {{lj|初音ミク「Rainbow」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/7935684/7935684
+}}
+
+{{Producer_Song
+|nnd_id   = sm7627672
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年7月13日
+|条目     = 「パンツレスラーズ！ＥＸ 」歌ってみた【samfree】
+|标题     = {{lj|「パンツレスラーズ！ＥＸ 」歌ってみた【samfree】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/7627672/7627672
+}}
+
+{{Producer_Song
+|nnd_id   = sm7452616
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年6月26日
+|条目     = メグッポイド「メグメグ☆ファイアーエンドレスナイト」【オリジナル】
+|标题     = {{lj|メグッポイド「メグメグ☆ファイアーエンドレスナイト」【オリジナル】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/7452616/7452616
+}}
+
+{{Producer_Song
+|nnd_id   = sm6592477
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年3月30日
+|条目     = 初音ミク「桜舞う　今」【オリジナル曲】
+|标题     = {{lj|初音ミク「桜舞う　今」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/6592477/6592477
+}}
+
+{{Producer_Song
+|nnd_id   = sm6206647
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年2月20日
+|条目     = 初音ミク「闇色アリス」【オリジナル曲】
+|标题     = {{lj|初音ミク「闇色アリス」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/6206647/6206647
+}}
+
+{{Producer_Song
+|nnd_id   = sm6179221
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年2月17日
+|条目     = 巡音ルカ「たこルカ★マグロフィーバー」
+|标题     = {{lj|巡音ルカ「たこルカ★マグロフィーバー」}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/6179221/6179221
+}}
+
+{{Producer_Song
+|nnd_id   = sm6119955
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年2月12日
+|条目     = 巡音ルカ「ルカルカ★ナイトフィーバー」【オリジナル曲】
+|标题     = {{lj|巡音ルカ「ルカルカ★ナイトフィーバー」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/6119955/6119955
+}}
+
+{{Producer_Song
+|nnd_id   = sm6018690
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2009年2月2日
+|条目     = 巡音ルカ「Bye-Bye Lover」【オリジナル曲】
+|标题     = {{lj|巡音ルカ「Bye-Bye Lover」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/6018690/6018690
+}}
+
+{{Producer_Song
+|nnd_id   = sm5361038
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年11月26日
+|条目     = 鏡音リン「えもラブ」
+|标题     = {{lj|鏡音リン「えもラブ」}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/5361038/5361038
+}}
+
+{{Producer_Song
+|nnd_id   = sm5066725
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年10月27日
+|条目     = 初音ミク「赤い実はじけた」【オリジナル曲】
+|标题     = {{lj|初音ミク「赤い実はじけた」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/5066725/5066725
+}}
+
+{{Producer_Song
+|nnd_id   = sm4262917
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年8月12日
+|条目     = 初音ミク「キミノモトヘ」【オリジナル曲】
+|标题     = {{lj|初音ミク「キミノモトヘ」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/4262917/4262917
+}}
+
+{{Producer_Song
+|nnd_id   = sm4113963
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年7月29日
+|条目     = 初音ミク「HAPPY SUNDAY」【オリジナル曲】
+|标题     = {{lj|初音ミク「HAPPY SUNDAY」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/4113963/4113963
+}}
+
+{{Producer_Song
+|nnd_id   = sm3813866
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年6月30日
+|条目     = 初音ミク「世界で一番近くに居るのに」【オリジナル曲】
+|标题     = {{lj|初音ミク「世界で一番近くに居るのに」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/3813866/3813866
+}}
+
+{{Producer_Song
+|nnd_id   = sm3368651
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年5月19日
+|条目     = 初音ミク「Missing」【オリジナル曲】
+|标题     = {{lj|初音ミク「Missing」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/3368651/3368651
+}}
+
+{{Producer_Song
+|nnd_id   = sm3129194
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年4月28日
+|条目     = 初音ミク「うぉーあいにーだよッ！お兄ちゃん☆」
+|标题     = {{lj|初音ミク「うぉーあいにーだよッ！お兄ちゃん☆」}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/3129194/3129194
+}}
+
+{{Producer_Song
+|nnd_id   = sm3122996
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年4月27日
+|条目     = 【DTM板】初音ミク「こどものじかん」【萌え・電波ソングを作るスレ】
+|标题     = {{lj|【DTM板】初音ミク「こどものじかん」【萌え・電波ソングを作るスレ】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/3122996/3122996
+}}
+
+{{Producer_Song
+|nnd_id   = sm3108127
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年4月26日
+|条目     = 【DTM板】初音ミク「はじめてのおとまり」【萌え電波ソングを作るスレ】
+|标题     = {{lj|【DTM板】初音ミク「はじめてのおとまり」【萌え電波ソングを作るスレ】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/3108127/3108127
+}}
+
+{{Producer_Song
+|nnd_id   = sm3057846
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年4月21日
+|条目     = 鏡音リンで「桜のような恋でした」
+|标题     = {{lj|鏡音リンで「桜のような恋でした」}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/3057846/3057846
+}}
+
+{{Producer_Song
+|nnd_id   = sm2518977
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年3月5日
+|条目     = 初音ミク「Powder Snow」【オリジナル曲】
+|标题     = {{lj|初音ミク「Powder Snow」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/2518977/2518977
+}}
+
+{{Producer_Song
+|nnd_id   = sm2221763
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年2月3日
+|条目     = 初音ミク「トキメキはぴねす☆」【オリジナル曲】
+|标题     = {{lj|初音ミク「トキメキはぴねす☆」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/2221763/2221763
+}}
+
+{{Producer_Song
+|nnd_id   = sm2187424
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年1月31日
+|条目     = 鏡音リン「トキメキはぴねす☆」【オリジナル曲】
+|标题     = {{lj|鏡音リン「トキメキはぴねす☆」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/2187424/2187424
+}}
+
+{{Producer_Song
+|nnd_id   = sm1961633
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2008年1月6日
+|条目     = 初音ミク・鏡音リン「Promise」【オリジナル曲】
+|标题     = {{lj|初音ミク・鏡音リン「Promise」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1961633/1961633
+}}
+
+{{Producer_Song
+|nnd_id   = sm1908633
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年12月30日
+|条目     = 鏡音レン「Daybreak」【オリジナル曲】
+|标题     = {{lj|鏡音レン「Daybreak」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1908633/1908633
+}}
+
+{{Producer_Song
+|nnd_id   = sm1900752
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年12月30日
+|条目     = 鏡音リン「Daybreak」【オリジナル曲】
+|标题     = {{lj|鏡音リン「Daybreak」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1900752/1900752
+}}
+
+{{Producer_Song
+|nnd_id   = sm1877308
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年12月26日
+|条目     = 初音ミクがメタル曲「CHAIN」を歌ってくれました
+|标题     = {{lj|初音ミクがメタル曲「CHAIN」を歌ってくれました}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1877308/1877308
+}}
+
+{{Producer_Song
+|nnd_id   = sm1852581
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年12月24日
+|条目     = 初音ミク「君のメロディー」【オリジナル曲】
+|标题     = {{lj|初音ミク「君のメロディー」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1852581/1852581
+}}
+
+{{Producer_Song
+|nnd_id   = sm1766090
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年12月13日
+|条目     = 初音ミク「桜のような恋でした」【オリジナル曲】
+|标题     = {{lj|初音ミク「桜のような恋でした」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1766090/1766090
+}}
+
+{{Producer_Song
+|nnd_id   = sm1696334
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年12月4日
+|条目     = 初音ミク「Daybreak  -Full ver-」【オリジナル曲】
+|标题     = {{lj|初音ミク「Daybreak  -Full ver-」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1696334/1696334
+}}
+
+{{Producer_Song
+|nnd_id   = sm1654618
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年11月30日
+|条目     = 初音ミク「Tender Wind」【オリジナル曲】
+|标题     = {{lj|初音ミク「Tender Wind」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1654618/1654618
+}}
+
+{{Producer_Song
+|nnd_id   = sm1651267
+|yt_id    =  
+|bb_id    = 
+|作曲     = Samfree
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = 2007年11月29日
+|条目     = 初音ミク「Daybreak」【オリジナル曲】
+|标题     = {{lj|初音ミク「Daybreak」【オリジナル曲】}}
+|其他名字 = 
+|image    = https://nicovideo.cdn.nimg.jp/thumbnails/1651267/1651267
+}}
+
+}}

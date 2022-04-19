@@ -1,0 +1,20 @@
+{{Playlist|
+###65###
+{{Producer_Song
+|nnd_id   = @_NICO_SM_@
+|yt_id    =  
+|bb_id    = 
+|作曲     = @P主名@
+|填词     =  
+|视频制作 = 
+|画师     =  
+|演唱者   = 
+|歌曲描述 = 
+|投稿日期 = @_NICO_DATE_CHN_@
+|条目     = @_NICO_TITLE_@
+|标题     = {{lj|@_NICO_TITLE_@}}
+|其他名字 = 
+|image    = @_NICO_IMG_@
+}}
+###
+}}
